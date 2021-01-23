@@ -13,7 +13,7 @@ My Stack:💾
 - Frameworks: Bootstrap, Tailwind, Bulma, JQuery
 - Backend: Node.JS, NPM, Nodemon, Lodash, Express
 - API: Fetch, Rest, Heroku, OpenWeather, Postman, Mailchimp
-- Database: SQL
+- Database: SQL, MongoDB, Mongoose
 - Version Control: Git, GitHub
 - Unix: Bash, Linux, Kali, Vim, iTerm2, ZSH
 - IDE: VS Code, Web Storm, Chrome Dev Tools
