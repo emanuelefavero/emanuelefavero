@@ -11,9 +11,9 @@ Currently a React Developer.
 
 My Stack:💾
 - Languages: HTML5, CSS3, Javascript, Python, Sass
-- Frameworks: React, Bootstrap, Tailwind, Bulma, JQuery
+- Frameworks: React, Svelte, Bootstrap, Tailwind, Bulma, JQuery
 - Backend: Node.JS, NPM, Nodemon, Lodash, Express, Django, Flask
-- Auth: Firebase, Google OAuth
+- Auth: Firebase, Google OAuth, Json Web Tokens, Cookies, Session, Local
 - API: Fetch, Rest, Heroku, OpenWeather, Postman, Mailchimp
 - Database: SQL, MongoDB, Mongoose
 - Version Control: Git, GitHub
