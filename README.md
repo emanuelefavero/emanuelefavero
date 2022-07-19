@@ -10,7 +10,7 @@ Currently a React Developer.
 - 🇺🇸 Excellent English (10+ years in english business meetings/emails/USA visits)
 
 My Stack:💾
-- Languages: HTML5, CSS3, Javascript, Python, Sass
+- Languages: Javascript, CSS, Sass, HTML, Typescript, C, Python, MicroPython
 - Frameworks: React, Svelte, Bootstrap, Tailwind, Bulma, JQuery
 - Backend: Node.JS, NPM, Nodemon, Lodash, Express, Django, Flask
 - Auth: Firebase, Google OAuth, Json Web Tokens, Cookies, Session, Local
@@ -23,12 +23,11 @@ My Stack:💾
 - Design: Photoshop, Illustrator, Lightroom
 - Video: Premiere, Resolve, OBS
 - Audio: Audition, Ableton Live, Avid Pro Tools
-- Other: Microsoft Office, Word, Excel, Powerpoint, Google Suite
+- Other: Microsoft Office, Word, Excel, Powerpoint, Google Suite, Trello, Jira
 
 Future Studies: 🛫
 - React Native
 - Electron
-- Typescript
 
 Strenghts:🏋️
 - creativity
