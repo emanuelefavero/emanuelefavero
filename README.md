@@ -43,5 +43,5 @@ Free Time:🌴
 - family, dog, nature and coding is all I need.
 
 Contact Me on LinkedIn:
-- https://www.linkedin.com/in/emanuele-favero-47684464/
+- https://www.linkedin.com/in/emanuelefavero/
 
