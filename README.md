@@ -10,24 +10,20 @@ Currently a React Developer.
 - 🇺🇸 Excellent English (10+ years in english business meetings/emails/USA visits)
 
 My Stack:💾
-- Languages: Javascript, CSS, Sass, HTML, Typescript, C, Python, MicroPython
-- Frameworks: React, Svelte, Bootstrap, Tailwind, Bulma, JQuery
-- Backend: Node.JS, NPM, Nodemon, Lodash, Express, Django, Flask
+- Languages: Javascript, Typescript, CSS, Sass, HTML, C, Python, MicroPython
+- Frameworks: React, React Native, Electron, Svelte, Bootstrap, Tailwind, Bulma, JQuery
+- Backend: Node.JS, NPM, Nodemon, Express, Django, Flask
 - Auth: Firebase, Google OAuth, Json Web Tokens, Cookies, Session, Local
 - API: Fetch, Rest, Heroku, OpenWeather, Postman, Mailchimp
 - Database: SQL, MongoDB, Mongoose
 - Version Control: Git, GitHub
-- Unix: Bash, Linux, Kali, Vim, iTerm2, ZSH
+- Unix: Bash, Linux, Kali, Vi, Vim, iTerm2, ZSH
 - IDE: VS Code, Web Storm, Chrome Dev Tools
 - UX-UI Design: Figma, Adobe XD
 - Design: Photoshop, Illustrator, Lightroom
 - Video: Premiere, Resolve, OBS
 - Audio: Audition, Ableton Live, Avid Pro Tools
-- Other: Microsoft Office, Word, Excel, Powerpoint, Google Suite, Trello, Jira
-
-Future Studies: 🛫
-- React Native
-- Electron
+- Other: Microsoft Office, Word, Excel, Powerpoint, Google Suite, Trello, Jira, Notion
 
 Strenghts:🏋️
 - creativity
