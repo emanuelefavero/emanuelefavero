@@ -39,7 +39,7 @@
 
 - _**Database:**_ `MongoDB, Mongoose, Firebase, SQL, MySQL, SQLite`
 
-- _**Design Patterns:**_ `MERN, MVC, OOP, DRY, SOLID`
+- _**Design Patterns / Methods:**_ `MERN, MVC, OOP, Functional, DRY, CRUD, Agile, Scrum, Kanban`
 
 - _**API:**_ `REST, Axios, Fetch, Postman, Heroku, OpenWeather, Mailchimp`
 
@@ -51,7 +51,7 @@
 
 - _**Dev Tools:**_ `VS Code, Prettier, ESLint, Babel, Webpack, Vite, Create React App, Chrome Dev Tools, Copilot, Vim, Terminal, iTerm2, ZSH, Bash`
 
-- _**Other:**_ `Algorithms, Data Structures, Python, C, MicroPython, Jira, Trello, Notion, MVC, Agile, Scrum, Kanban, CI/CD, Figma, Adobe XD, Photoshop, Illustrator, Lightroom, Premiere, Resolve, OBS, Audition, Ableton Live, Avid Pro Tools, Microsoft Office, Word, Excel, Powerpoint, Google Suite, chatGPT, MidJourney, DALLe`
+- _**Other:**_ `Algorithms, Data Structures, Python, C, MicroPython, Jira, Trello, Notion, CI/CD, Figma, Adobe XD, Photoshop, Illustrator, Lightroom, Premiere, Resolve, OBS, Audition, Ableton Live, Avid Pro Tools, Microsoft Office, Word, Excel, Powerpoint, Google Suite, chatGPT, MidJourney, DALLe`
 
 ---
 
