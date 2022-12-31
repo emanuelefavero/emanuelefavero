@@ -62,7 +62,7 @@
 - 📱 **10+** years in Digital Marketing/eCommerce, (Content Management, Digital Product Creation/Retail), Graphic Design, Sound Design.
 - 🇺🇸 Excellent English (**10+** years in english business meetings/emails/USA visits)
 - 💪 I am a fast learner, open to learn new things and build good teamwork.
-- ♥ - I love the process of designing, coding and building websites and web applications.
+- ❤️ I love the process of designing, coding and building websites and web applications.
 - 🎯 my dream: work as a professional Front-end Developer in a groundbreaking startup and making a difference.
 
 ## Strengths 🏋️
