@@ -39,7 +39,7 @@
 
 - _**Database:**_ `MongoDB, Mongoose, Firebase, SQL, MySQL, SQLite`
 
-- _**Design Patterns / Methods:**_ `MERN, MVC, OOP, Functional, DRY, CRUD, Agile, Scrum, Kanban`
+- _**Design Patterns / Methods:**_ `MERN, MVC, BaaS (Firebase) OOP, Functional, DRY, CRUD, Agile, Scrum, Kanban`
 
 - _**API:**_ `REST, Axios, Fetch, Postman, Heroku, OpenWeather, Mailchimp`
 
