@@ -21,7 +21,7 @@
 | [**Blog**](https://github.com/emanuelefavero/blog-mern)                                                                                                      | A _**MERN**_ blog website where the admin can create blogs with markdown, edit, delete and publish them. The user can view the blogs and comment on them, `login: john, 1234` | MERN                        | [Website](https://blog-mern-client.onrender.com/)                        |
 | [**House Marketplace**](https://github.com/emanuelefavero/house-marketplace)                                                                                 | An Airbnb-like house marketplace built with _**Firebase**_ and _**React**_                                                                                                    | Firebase / React            | [Website](https://house-marketplace-sigma-three.vercel.app/)             |
 | [**Consulting Firm**](https://github.com/emanuelefavero/tailwind-consulting-website)                                                                         | A nice looking static website for a consulting firm built with _**TailwindCSS**_                                                                                              | TailwindCSS                 | [Website](https://emanuelefavero.github.io/tailwind-consulting-website/) |
-| [**Debugging Duck** (React Native)](https://github.com/emanuelefavero/debugging-duck-mobile), [(Electron)](https://github.com/emanuelefavero/debugging-duck) | A cute debugging duck that helps you coding built both for mobile (_**React Native**_) and desktop (_**Electron**_).                                                          | React Native / Electron     | N / A                                                                    |
+| [**Debugging Duck** (React Native)](https://github.com/emanuelefavero/debugging-duck-mobile), [(Electron)](https://github.com/emanuelefavero/debugging-duck) | A cute debugging duck that helps you coding built both for mobile (_**React Native**_) and desktop (_**Electron**_)                                                           | React Native / Electron     | N / A                                                                    |
 | [**Weather API App**](https://github.com/emanuelefavero/weather-api-app)                                                                                     | A _**Weather API**_ fetch app built with _**React**_                                                                                                                          | React / Weather API / Fetch | [Website](https://weather-api-app-mu.vercel.app/)                        |
 | [**Local Library**](https://github.com/emanuelefavero/local-library)                                                                                         | A Wikipedia-like website for a local library built with the _**MVC**_ pattern (_**NodeJS, MongoDB, EJS**_)                                                                    | MVC                         | [Website](https://different-undershirt-bull.cyclic.app/catalog)          |
 
@@ -30,6 +30,15 @@
 > \*Those are hosted on Render.com so they might take a while to load. Unfortunately Heroku has removed the free tier to host them.
 
 ---
+
+### **Fun Little Projects** 🎮
+
+| Project                                                              | Description                                                    | Tech                  | Websites                                                    |
+| -------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------- | ----------------------------------------------------------- |
+| [**Canvas Game**](https://github.com/emanuelefavero/canvas-game)     | A mini game built with html canvas, vanilla javascript and css | Canvas, Javascript    | [Play Now](https://emanuelefavero.github.io/canvas-game/)   |
+| [**Tic Tac Toe**](https://github.com/emanuelefavero/tic-tac-toe)     | A minimal tic tac toe game built with HTML, CSS and JavaScript | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/tic-tac-toe/)   |
+| [**Analog Clock**](https://github.com/emanuelefavero/analog-clock)   | A simple front end analog clock with sound and dark mode       | HTML, CSS, Javascript | [Website](https://emanuelefavero.github.io/analog-clock/)   |
+| [**Etch A Sketch**](https://github.com/emanuelefavero/etch-a-sketch) | An Etch A Sketch toy clone made with HTML, CSS and JavaScript  | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/etch-a-sketch/) |
 
 ## **My Stack** 🛠
 
