@@ -33,13 +33,14 @@
 
 ### **Fun Little Projects** 🎮
 
-| Project                                                          | Description                                                    | Tech                  | Websites                                                    |
-| ---------------------------------------------------------------- | -------------------------------------------------------------- | --------------------- | ----------------------------------------------------------- |
-| [Canvas Game](https://github.com/emanuelefavero/canvas-game)     | A mini game built with HTML Canvas, Vanilla Javascript and CSS | Canvas, Javascript    | [Play Now](https://emanuelefavero.github.io/canvas-game/)   |
-| [Tic Tac Toe](https://github.com/emanuelefavero/tic-tac-toe)     | A minimal tic tac toe game built with HTML, CSS and JavaScript | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/tic-tac-toe/)   |
-| [Analog Clock](https://github.com/emanuelefavero/analog-clock)   | A simple front end analog clock with sound and dark mode       | HTML, CSS, Javascript | [Website](https://emanuelefavero.github.io/analog-clock/)   |
-| [Etch A Sketch](https://github.com/emanuelefavero/etch-a-sketch) | An Etch A Sketch toy clone made with HTML, CSS and JavaScript  | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/etch-a-sketch/) |
-| [Mini Game](https://github.com/emanuelefavero/mini-game)         | A mini game built with HTML, CSS, Javascript                   | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/mini-game/)     |
+| Project                                                                            | Description                                                    | Tech                  | Websites                                                            |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------- |
+| [Canvas Game](https://github.com/emanuelefavero/canvas-game)                       | A mini game built with HTML Canvas, Vanilla Javascript and CSS | Canvas, Javascript    | [Play Now](https://emanuelefavero.github.io/canvas-game/)           |
+| [Tic Tac Toe](https://github.com/emanuelefavero/tic-tac-toe)                       | A minimal tic tac toe game built with HTML, CSS and JavaScript | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/tic-tac-toe/)           |
+| [Analog Clock](https://github.com/emanuelefavero/analog-clock)                     | A simple front end analog clock with sound and dark mode       | HTML, CSS, Javascript | [Website](https://emanuelefavero.github.io/analog-clock/)           |
+| [Etch A Sketch](https://github.com/emanuelefavero/etch-a-sketch)                   | An Etch A Sketch toy clone made with HTML, CSS and JavaScript  | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/etch-a-sketch/)         |
+| [Mini Game](https://github.com/emanuelefavero/mini-game)                           | A mini game built with HTML, CSS, Javascript                   | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/mini-game/)             |
+| [Apple Scroll Animation](https://github.com/emanuelefavero/apple-scroll-animation) | Vanilla Javascript frame synced to scroll Apple animation      | HTML, CSS, Javascript | [Website](https://emanuelefavero.github.io/apple-scroll-animation/) |
 
 ## **My Stack** 🛠
 
