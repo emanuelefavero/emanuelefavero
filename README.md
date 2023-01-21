@@ -45,6 +45,7 @@
 | [Apple Scroll Animation](https://github.com/emanuelefavero/apple-scroll-animation)    | A Vanilla Javascript frame synced to scroll Apple animation              | HTML, CSS, Javascript | [Website](https://emanuelefavero.github.io/apple-scroll-animation/)   |
 | [Roll Two Dice Game](https://github.com/emanuelefavero/roll-two-dice)                 | A Vanilla JavaScript game that rolls two dice and displays the result    | HTML, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/roll-two-dice/)           |
 | [Cursor Tail Animation](https://github.com/emanuelefavero/cursor-tail-animation)      | A nice custom cursor tail animation                                      | HTML, CSS, Javascript | [Try It Now](https://emanuelefavero.github.io/cursor-tail-animation/) |
+| [Sneakers Card](https://github.com/emanuelefavero/sneakers-card)                      | A nice responsive, animated CSS card for selling merchandise             | HTML, CSS             | [Try It Now](https://emanuelefavero.github.io/sneakers-card/)         |
 
 ## **My Stack** 🛠
 
