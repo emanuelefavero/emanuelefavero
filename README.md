@@ -26,6 +26,7 @@
 | [**Local Library**](https://github.com/emanuelefavero/local-library)                                                                                         | A Wikipedia-like website for a local library built with the _**MVC**_ pattern (_**NodeJS, MongoDB, EJS**_)                                                                    | MVC                         | [Website](https://different-undershirt-bull.cyclic.app/catalog)          |
 | [**Next JS Blog Typescript**](https://github.com/emanuelefavero/nextjs-blog-typescript)                                                                      | A minimal blog built with **NextJS** and **Typescript** to show its features                                                                                                  | NextJS, Typescript          | [Website](https://nextjs-blog-typescript-rho.vercel.app/)                |
 | [**Next JS Markdown Blog**](https://github.com/emanuelefavero/next-markdown-blog)                                                                            | A **Next.js** markdown blog static site generator (**SSG**)                                                                                                                   | NextJS, SSG                 | [Website](https://next-markdown-blog-ivory.vercel.app/)                  |
+| [**Svelte Feedback App**](https://github.com/emanuelefavero/svelte-feedback-app)                                                                             | A Feedback App created with Svelte to showcase Svelte main features                                                                                                           | Svelte                      | [Website](https://svelte-feedback-app-eta.vercel.app/)                   |
 
 > _TIP: If Facebook Clone and Blog websites aren't loading, copy the link and paste it in a new tab\*_
 >
@@ -52,7 +53,6 @@
 | [Sneakers Card](https://github.com/emanuelefavero/sneakers-card)                      | A nice responsive, animated CSS card for selling merchandise             | HTML, CSS                | [Try It Now](https://emanuelefavero.github.io/sneakers-card/)         |
 | [Portfolio Agro](https://github.com/emanuelefavero/portfolio-agroecosistemi)          | A portfolio I made for my brother when he graduated university           | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/portfolio-agroecosistemi/) |
 | [Excavator CSS Animation](https://github.com/emanuelefavero/excavatorCSSAnimation)    | An excavator icon animation made with CSS and PNG images                 | HTML, CSS                | [Website](https://emanuelefavero.github.io/excavatorCSSAnimation/)    |
-| [Svelte Feedback App](https://github.com/emanuelefavero/excavatorCSSAnimation)        | A Feedback App created with Svelte to showcase Svelte main features      | Svelte                   | [Website](https://svelte-feedback-app-eta.vercel.app/)                |
 
 ## **My Stack** 🛠
 
