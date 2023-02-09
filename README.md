@@ -56,25 +56,25 @@
 
 ## **My Stack** 🛠
 
-- _**Front-end:**_ `Typescript, Javascript, React, CSS, Sass, Styled Components, CSS Modules, TailwindCSS, HTML, React Native, Electron, Svelte, Bootstrap, JQuery, React Router Dom, Context API`
+- _**Front-end:**_ `Typescript, Javascript, Next.js, React, CSS, Sass, Styled Components, CSS Modules, TailwindCSS, HTML, React Native, Electron, Svelte, Bootstrap, JQuery, React Router Dom, Context API, react-spring`
 
-- _**Back-end:**_ `Node.JS, Express, Nodemon, NPM, yarn, pnpm, Django, Flask, Socket.io, Puppeteer`
+- _**Back-end:**_ `Node.JS, Express, Nodemon, NPM, yarn, pnpm, Python, Django, Flask, Socket.io, WebSockets, Puppeteer`
 
-- _**Database:**_ `MongoDB, Mongoose, Firebase, SQL, MySQL, SQLite`
+- _**Database:**_ `MongoDB, Mongoose, Firebase, Prisma, PostgreSQL,SQL, MySQL, SQLite`
 
-- _**Design Patterns / Methods:**_ `MERN, MVC, BaaS (Firebase) OOP, Functional, DRY, CRUD, Agile, Scrum, Kanban`
+- _**Design Patterns / Methods:**_ `MERN, MVC, t3 Stack, BaaS (Firebase), OOP, Functional, DRY, CRUD, Agile, Scrum, Kanban`
 
-- _**API:**_ `REST, Axios, Fetch, Postman, Heroku, OpenWeather, Mailchimp`
+- _**API:**_ `REST, Axios, Fetch, tRPC, zod, Postman, Heroku, OpenWeather, Mailchimp`
 
-- _**Authentication:**_ `Passport, Firebase, Google OAuth, Json Web Tokens, Cookies, Session, Local`
+- _**Authentication:**_ `Passport, Firebase, NextAuth, Google OAuth, Json Web Tokens, Cookies, Session, Local`
 
 - _**Version Control:**_ `Git, GitHub`
 
 - _**Testing:**_ `Jest, Docker, Virtual Machines, Parallels`
 
-- _**Dev Tools:**_ `VS Code, Prettier, ESLint, Babel, Webpack, Vite, Create React App, Chrome Dev Tools, Copilot, Vim, Terminal, iTerm2, ZSH, Bash`
+- _**Dev Tools:**_ `VS Code, Prettier, ESLint, Babel, Webpack, Create Next App, Create T3 App, Vercel, Vite, Create React App, Railway, Chrome Dev Tools, Copilot, Vim, Terminal, iTerm2, ZSH, Bash`
 
-- _**Other:**_ `Algorithms, Data Structures, Python, C, MicroPython, Jira, Trello, Notion, CI/CD, Figma, Adobe XD, Photoshop, Illustrator, Lightroom, Premiere, Resolve, OBS, Audition, Ableton Live, Avid Pro Tools, Microsoft Office, Word, Excel, Powerpoint, Google Suite, chatGPT, MidJourney, DALLe`
+- _**Other:**_ `Algorithms, Data Structures, C, MicroPython, Markdown, Jira, Trello, Notion, CI/CD, SEO, robots.txt, Figma, Adobe XD, Photoshop, Illustrator, Lightroom, Premiere, Resolve, OBS, Audition, Ableton Live, Avid Pro Tools, Microsoft Office, Word, Excel, Powerpoint, Google Suite, chatGPT, MidJourney, DALLe`
 
 ---
 
