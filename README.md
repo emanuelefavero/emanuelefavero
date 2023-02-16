@@ -53,6 +53,7 @@
 | [Sneakers Card](https://github.com/emanuelefavero/sneakers-card)                      | A nice responsive, animated CSS card for selling merchandise             | HTML, CSS                | [Try It Now](https://emanuelefavero.github.io/sneakers-card/)         |
 | [Portfolio Agro](https://github.com/emanuelefavero/portfolio-agroecosistemi)          | A portfolio I made for my brother when he graduated university           | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/portfolio-agroecosistemi/) |
 | [Excavator CSS Animation](https://github.com/emanuelefavero/excavatorCSSAnimation)    | An excavator icon animation made with CSS and PNG images                 | HTML, CSS                | [Website](https://emanuelefavero.github.io/excavatorCSSAnimation/)    |
+| [Stop Watch](https://github.com/emanuelefavero/stop-watch)                            | A simple stop watch application written in Javascript, HTML and CSS      | HTML, CSS, Javascript    | [Try It Now](https://emanuelefavero.github.io/stop-watch/)            |
 
 ## **My Stack** 🛠
 
