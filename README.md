@@ -58,6 +58,7 @@
 | [Portfolio Agro](https://github.com/emanuelefavero/portfolio-agroecosistemi)          | A portfolio I made for my brother when he graduated university           | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/portfolio-agroecosistemi/) |
 | [Excavator CSS Animation](https://github.com/emanuelefavero/excavatorCSSAnimation)    | An excavator icon animation made with CSS and PNG images                 | HTML, CSS                | [Website](https://emanuelefavero.github.io/excavatorCSSAnimation/)    |
 | [Stop Watch](https://github.com/emanuelefavero/stop-watch)                            | A simple stop watch application written in Javascript, HTML and CSS      | HTML, CSS, Javascript    | [Try It Now](https://emanuelefavero.github.io/stop-watch/)            |
+| [Load More Button](https://github.com/emanuelefavero/react-load-more)                 | A simple react load more posts button that fetches data from an API      | React, Fetch API         | [Website](https://react-load-more-seven.vercel.app/)                  |
 
 ## **My Stack** 🛠
 
