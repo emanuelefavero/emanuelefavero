@@ -50,6 +50,7 @@
 | [Etch A Sketch](https://github.com/emanuelefavero/etch-a-sketch)                      | An Etch A Sketch toy clone made with HTML, CSS and JavaScript            | HTML, CSS, Javascript    | [Play Now](https://emanuelefavero.github.io/etch-a-sketch/)           |
 | [Mini Game](https://github.com/emanuelefavero/mini-game)                              | A mini game built with HTML, CSS, Javascript                             | HTML, CSS, Javascript    | [Play Now](https://emanuelefavero.github.io/mini-game/)               |
 | [Tone.js Mini Piano](https://github.com/emanuelefavero/tonejs-mini-piano)             | A mini piano application that uses the Tone.js Web Audio framework       | Tone.js, CSS, Javascript | [Play Now](https://emanuelefavero.github.io/tonejs-mini-piano/)       |
+| [Stars Clouds Aphorism](https://github.com/emanuelefavero/stars-clouds-aphorism)      | A website that generates stars, moving clouds and displays aphorisms     | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/stars-clouds-aphorism/)    |
 | [Fade Into View Animation](https://github.com/emanuelefavero/react-fade-in-into-view) | A React component that fades in an element when it is scrolled into view | React, Typescript        | [Website](https://react-fade-in-into-view.vercel.app/)                |
 | [Apple Scroll Animation](https://github.com/emanuelefavero/apple-scroll-animation)    | A Vanilla Javascript frame synced to scroll Apple animation              | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/apple-scroll-animation/)   |
 | [Roll Two Dice Game](https://github.com/emanuelefavero/roll-two-dice)                 | A Vanilla JavaScript game that rolls two dice and displays the result    | HTML, CSS, Javascript    | [Play Now](https://emanuelefavero.github.io/roll-two-dice/)           |
@@ -59,6 +60,8 @@
 | [Excavator CSS Animation](https://github.com/emanuelefavero/excavatorCSSAnimation)    | An excavator icon animation made with CSS and PNG images                 | HTML, CSS                | [Website](https://emanuelefavero.github.io/excavatorCSSAnimation/)    |
 | [Stop Watch](https://github.com/emanuelefavero/stop-watch)                            | A simple stop watch application written in Javascript, HTML and CSS      | HTML, CSS, Javascript    | [Try It Now](https://emanuelefavero.github.io/stop-watch/)            |
 | [Load More Button](https://github.com/emanuelefavero/react-load-more)                 | A simple react load more posts button that fetches data from an API      | React, Fetch API         | [Website](https://react-load-more-seven.vercel.app/)                  |
+
+> Note: Visit my [css](https://github.com/emanuelefavero/css) cheat sheet repo repo to see more CSS animations and effects
 
 ## **My Stack** 🛠
 
