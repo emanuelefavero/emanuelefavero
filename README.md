@@ -66,6 +66,7 @@
 | [Excavator CSS Animation](https://github.com/emanuelefavero/excavatorCSSAnimation)    | An excavator icon animation made with CSS and PNG images                 | HTML, CSS                | [Website](https://emanuelefavero.github.io/excavatorCSSAnimation/)    |
 | [Stop Watch](https://github.com/emanuelefavero/stop-watch)                            | A simple stop watch application written in Javascript, HTML and CSS      | HTML, CSS, Javascript    | [Try It Now](https://emanuelefavero.github.io/stop-watch/)            |
 | [Load More Button](https://github.com/emanuelefavero/react-load-more)                 | A simple react load more posts button that fetches data from an API      | React, Fetch API         | [Website](https://react-load-more-seven.vercel.app/)                  |
+| [Day Night](https://github.com/emanuelefavero/day-night)                              | A simple day/night cycle animation with a sun and stars                  | HTML, CSS, Javascript    | [Website](https://emanuelefavero.github.io/day-night/)                |
 
 > Note: Visit my [css](https://github.com/emanuelefavero/css) cheat sheet repo repo to see more CSS animations and effects
 
