@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@emanuelefavero.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc 'Telegram')](https://t.me/emanuelefavero)
 [![Twitter](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00acee 'Twitter')](https://twitter.com/emanuele_dev)
-[![Instagram](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e43664 'Instagram')](https://www.instagram.com/emanuele.dev/)
 
 &nbsp;
 
