@@ -133,27 +133,10 @@
 
 - 👨‍💻 **4+** years in Front-end Development
 - 👨‍💻 **3+** years in Back-end Development
-- 📱 **10+** years in Digital Marketing/eCommerce, (Content Management, Digital Product Creation/Retail), Graphic Design, Sound Design.
-- 🇺🇸 Excellent English (**10+** years in english business meetings/emails/USA visits)
-- 💪 I am a fast learner, open to learn new things and build good teamwork.
-- ❤️ I love the process of designing, coding and building websites and web applications.
-- 🎯 my dream: work as a professional Front-end Developer in a groundbreaking startup and making a difference.
+- 📱 **10+** years in eCommerce Digital Marketing, (Content Management, Digital Product Creation/Retail), Graphic Design, Sound Design.
+- 🇺🇸 Excellent English (**Level C2**, with **10+** years in english business meetings/emails/USA visits)
 
-## Strengths 🏋️
-
-- creativity
-- flexibility
-- self driven
-- hard working
-- friendly
-
-### What I do during my free time 🌴
-
-- learning new things and building stuff with it
-- spend time with family
-- play chess, piano and basketball
-
-> _Feel free to contact me if you have any questions or if you want to work together_
+> _Feel free to [**contact me**](#hello-im-emanuele-favero-👋) if you have any questions or if you want to work together_
 
 &nbsp;
 
