@@ -6,6 +6,7 @@
 
 ❓ Willing to relocate / work remotely: **Yes**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&logo=Portfolio&logoColor=white 'Portfolio')](https://emanuelefavero.com/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1 'Linkedin')](https://www.linkedin.com/in/emanuelefavero)
 [![Gmail](https://img.shields.io/badge/Gmail-DD4032?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@emanuelefavero.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc 'Telegram')](https://t.me/emanuelefavero)
