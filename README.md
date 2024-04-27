@@ -72,6 +72,7 @@
 | [Load More Button](https://github.com/emanuelefavero/react-load-more)                 | A simple react load more posts button that fetches data from an API      | React, Fetch API           | [Website](https://react-load-more-seven.vercel.app/)                  |
 | [Day Night](https://github.com/emanuelefavero/day-night)                              | A simple day/night cycle animation with a sun and stars                  | HTML, CSS, Javascript      | [Website](https://emanuelefavero.github.io/day-night/)                |
 | [React Autocomplete](https://github.com/emanuelefavero/react-autocomplete)            | A simple React Autocomplete component that uses a Trie data structure    | React, Vite                | [Website](https://react-autocomplete-two.vercel.app/)                 |
+| [HTMX Todo List](https://github.com/emanuelefavero/htmx-todo-list)                    | A todo list built with HTMX and Node.js/Express                          | HTMX, Node.js, Express     | N/A                                                                   |
 
 > Note: Visit my [css](https://github.com/emanuelefavero/css) cheat sheet repo repo to see more CSS animations and effects
 
