@@ -1,4 +1,4 @@
-# Hello, I'm Emanuele Favero 👋
+# Hello, I'm Emanuele Favero
 
 ### _A full stack **Software Developer** with a strong passion for Front-end and UX/UI design_
 
@@ -143,7 +143,7 @@
 - 📱 **10+** years in eCommerce Digital Marketing, (Content Management, Digital Product Creation/Retail), Graphic Design, Sound Design.
 - 🇺🇸 Excellent English (**Level C2**, with **10+** years in english business meetings/emails/USA visits)
 
-> _Feel free to [**contact me**](#hello-im-emanuele-favero-👋) if you have any questions or if you want to work together_
+> _Feel free to [**contact me**](#hello-im-emanuele-favero) if you have any questions or if you want to work together_
 
 &nbsp;
 
@@ -151,4 +151,4 @@
 
 &nbsp;
 
-[**Go To Top &nbsp; ⬆️**](#hello-im-emanuele-favero-👋)
+[**Go To Top &nbsp; ⬆️**](#hello-im-emanuele-favero)
