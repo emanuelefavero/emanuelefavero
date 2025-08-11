@@ -144,10 +144,10 @@
 
 ## **Experience** 📈
 
-- 👨‍💻 **4+** years in Front-end Development
-- 👨‍💻 **3+** years in Back-end Development
-- 📱 **10+** years in eCommerce Digital Marketing, (Content Management, Digital Product Creation/Retail), Graphic Design, Sound Design.
-- 🇺🇸 Excellent English (**Level C2**, with **10+** years in english business meetings/emails/USA visits)
+- 👨‍💻 **5+** years in Front-end Development
+- 👨‍💻 **4+** years in Back-end Development
+- 📱 **10+** years in Software Development, Plugins, Graphic Design, Sound Design
+- 🇺🇸 C2-level English proficiency, 10+ years of professional experience in English-speaking environments, including business meetings and frequent USA visits.
 
 > _Feel free to [**contact me**](#hello-im-emanuele-favero) if you have any questions or if you want to work together_
 
